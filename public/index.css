@@ -11,3 +11,13 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.container-fluid {
+  width: 80%;
+}
+
+.col-8, .col-4 {
+  background-color: grey;
+  border: 1px solid black;
+}
+
